@@ -15,3 +15,6 @@ bash <(curl -s https://raw.githubusercontent.com/Platinum1154/lazy/refs/heads/ma
 bash <(curl -s https://raw.githubusercontent.com/Platinum1154/lazy/refs/heads/main/bash/nix/set_bash_proxy.sh)
 ```
 
+```bash
+ bash <(curl -s https://raw.githubusercontent.com/Platinum1154/Lazy/refs/heads/main/bash/nix/ssh_keygen.sh)
+```
